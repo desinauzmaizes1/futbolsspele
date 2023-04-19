@@ -1,0 +1,102 @@
+*
+{
+ font-family:'Ubuntu';
+ margin:0px;
+}
+body
+{
+    background-image:url("../img/Goall.png");
+    /*background-position:bottom;*/
+    background-size:100%;
+}
+#mal3ab #o1 
+{
+    border:5px solid rgb(212, 33, 33);
+/*  margin-left:10px;*/
+    width:1300px;
+    height:600px;
+    
+/* background-image: url("33.jpg");*/
+}
+ h1 ,h2 ,p
+{
+    padding:5px;
+    color:rgb(255, 15, 2);
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+    
+}
+p{
+    color:#717273;
+    font-size:20px;
+    
+    text-align:center;
+}
+#ablshemal
+{
+    position:absolute;
+    left:30%;
+    top:35%;
+}
+#mal3ab  #shemal
+{
+    height:80px;
+    width:80px;
+    border-radius:200px;
+    background-color:blue;
+}
+#yemeen
+{
+    position:absolute;
+    right:27%;
+    top:35%;
+    height:80px;
+    width:80px;
+    border-radius:200px;
+    background-color:blue;
+}
+
+
+#nos
+{   position:absolute;
+    left:48%;
+    top:35%;
+    height:80px;
+    width:80px;
+    border-radius:200px;
+    background-color:blue;
+    
+}
+#ares
+{
+    position:absolute;
+    left:43%;
+    top:48%;
+}
+#ares #goal 
+{
+    width:200px;
+    height:200px;
+}
+#kora img
+{
+    height:70px;
+    width:70px;
+}
+#kora 
+{
+    position:absolute;
+    top:80%;
+    left:47%;   
+}
+#ko
+{
+    display:none;
+}
+#again{
+	display : none;
+}
+#again:hover{
+	cursor : pointer;
+}
